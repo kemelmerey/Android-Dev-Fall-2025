@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Instagram_SIS1</string>
+
+    <string name="instagram_logo_desc">Instagram Logo</string>
+    <string name="create_post_desc">Create new post</string>
+    <string name="messages_desc">Direct Messages</string>
+
+    <string name="avatar_and_username_desc">User avatar and username</string>
+    <string name="default_username">username</string>
+    <string name="post_image_desc">Post image</string>
+    <string name="likes_text">0 likes</string>
+    <string name="default_caption">This is a default caption.</string>
+    <string name="story_avatar_desc">Story avatar</string>
+    <string name="username_default">username</string>
+    <string name="instagram">Instagram</string>
+
+    <string name="like_button_desc">Like button</string>
+    <string name="comment_button_desc">Comment button</string>
+    <string name="send_button_desc">Send button</string>
+    <string name="bookmark_button_desc">Bookmark button</string>
+</resources>
