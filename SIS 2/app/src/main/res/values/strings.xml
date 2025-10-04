@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">NewsApp_SIS2</string>
+
+    <string name="instagram_logo_desc">Instagram Logo</string>
+    <string name="create_post_desc" translatable="false">Create new post</string>
+    <string name="messages_desc" translatable="false">Direct Messages</string>
+
+    <string name="avatar_and_username_desc" translatable="false">User avatar and username</string>
+    <string name="default_username" translatable="false">username</string>
+    <string name="post_image_desc" translatable="false">Post image</string>
+    <string name="likes_text" translatable="false">0 likes</string>
+    <string name="default_caption" translatable="false">This is a default caption.</string>
+    <string name="username_default" translatable="false">username</string>
+    <string name="newsapp" translatable="false">News App</string>
+
+    <string name="like_button_desc" translatable="false">Like button</string>
+    <string name="comment_button_desc" translatable="false">Comment button</string>
+    <string name="send_button_desc" translatable="false">Send button</string>
+    <string name="bookmark_button_desc" translatable="false">Bookmark button</string>
+</resources>
